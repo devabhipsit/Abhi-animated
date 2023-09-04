@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Abhi-animated/static/css/main.b5264e93.css",
+    "main.js": "/Abhi-animated/static/js/main.89a76848.js",
+    "static/js/787.d5f3c088.chunk.js": "/Abhi-animated/static/js/787.d5f3c088.chunk.js",
+    "static/media/service4.png": "/Abhi-animated/static/media/service4.4809e9ae3084e9d16873.png",
+    "static/media/about.png": "/Abhi-animated/static/media/about.5fc9c7377691c112dc69.png",
+    "static/media/img1.png": "/Abhi-animated/static/media/img1.af3c7991fe572583bc22.png",
+    "static/media/service2.jpg": "/Abhi-animated/static/media/service2.d858a64b7265cb9109aa.jpg",
+    "static/media/dbms.png": "/Abhi-animated/static/media/dbms.e87833de51226ae1582a.png",
+    "static/media/service3.jpeg": "/Abhi-animated/static/media/service3.731925d27f13605a5f73.jpeg",
+    "index.html": "/Abhi-animated/index.html",
+    "main.b5264e93.css.map": "/Abhi-animated/static/css/main.b5264e93.css.map",
+    "main.89a76848.js.map": "/Abhi-animated/static/js/main.89a76848.js.map",
+    "787.d5f3c088.chunk.js.map": "/Abhi-animated/static/js/787.d5f3c088.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5264e93.css",
+    "static/js/main.89a76848.js"
+  ]
+}
